@@ -40,4 +40,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
-api/pin?username=anuraghazra&repo=github-readme-stats
+api/pin?Leandroandrey=anuraghazra&repo=github-readme-stats
