@@ -39,5 +39,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
-api/pin?Leandroandrey=anuraghazra&repo=github-readme-stats
